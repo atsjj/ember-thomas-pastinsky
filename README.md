@@ -1,5 +1,8 @@
 # Thomas Pastinsky
 
+[![npm](https://img.shields.io/npm/v/ember-thomas-pastinsky.svg)](https://www.npmjs.com/package/ember-thomas-pastinsky)
+[![Build Status](https://travis-ci.org/atsjj/ember-thomas-pastinsky.svg?branch=master)](https://travis-ci.org/atsjj/ember-thomas-pastinsky)
+
 This Ember addon is dedicated to Thomas Pastinksy, friend and fellow
 developer who passed away on October 21, 2016.
 
@@ -31,7 +34,7 @@ We wish you peace.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/atsjj/ember-thomas-pastinsky.git` this repository
 * `cd ember-thomas-pastinsky`
 * `npm install`
 * `bower install`
