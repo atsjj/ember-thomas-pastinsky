@@ -15,7 +15,6 @@ module('Unit | Initializer | Thomas Pastinsky', {
   }
 });
 
-// Replace this with your real tests.
 test('in memoriam', function(assert) {
   const eulogy = ThomasPastinskyInitializer.initialize(application);
 
