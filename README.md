@@ -17,13 +17,13 @@ having conversations of just about anything with him.
 
 
 Thomas' last completed work was on the "Primeape" project, which he code-named.
-That is the Ember application that will accompany this addon. It is
-also the application that we wish to recognize as the one he shipped.
+That is the Ember application that will accompany this addon. It is also the
+application that we wish to recognize as the one he shipped.
 
 
 If it was not for the efforts of Thomas, we would not have shipped and we
 would have missed our deadline. We are all grateful for his effort, doing
-so and completing his first major Ember application!
+so and completing his first major Ember application for Summit!
 
 
 Therefore, the AMPS project management portal for Summit Electric Supply
