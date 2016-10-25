@@ -16,8 +16,8 @@ Thomas was an avid hang glider and had a love of aviation. We will all miss
 having conversations of just about anything with him.
 
 
-Thomas' last completed work was on the "Primeape" project, which he code-
-named. That is the Ember application that will accompany this addon. It is
+Thomas' last completed work was on the "Primeape" project, which he code-named.
+That is the Ember application that will accompany this addon. It is
 also the application that we wish to recognize as the one he shipped.
 
 
@@ -34,15 +34,14 @@ We wish you peace.
 
 ## Installation
 
-* `git clone https://github.com/atsjj/ember-thomas-pastinsky.git` this repository
-* `cd ember-thomas-pastinsky`
-* `npm install`
-* `bower install`
+* `ember install ember-thomas-pastinsky`
 
 ## Running
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
+* Inside the Ember Inspector extension, you will see a new entry in the Info section.
+* Running in development, you will see a new entry in the console info on initialization.
 
 ## Running Tests
 
